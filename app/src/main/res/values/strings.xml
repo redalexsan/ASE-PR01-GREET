@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="startText">Welcome %1$s %2$s %3$s</string>
+    <string name="main_message" />
+    <string name="main_reset">Reset</string>
+    <string name="main_name">Name</string>
+    <string name="main_apellidos">Last name</string>
+    <string name="main_greet">Greet</string>
+    <string name="main_cbPolite">Polite</string>
+    <string name="politeMessage">,Mr./Ms</string>
+</resources>
